@@ -16,6 +16,7 @@
 
 package net.margaritov.preference.colorpicker;
 
+//tes from now
 import net.margaritov.preference.colorpicker.R;
 
 import android.os.Bundle;
